@@ -1,2 +1,2 @@
-#MpApp
-This is my app.
+# myappsample
+sample app for tutorial
